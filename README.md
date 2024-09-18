@@ -1,2 +1,2 @@
 # Road_Accident_Analysis
-Road Accident Analysis using Excel
+I created a detailed Road Accident Dashboard using Excel, designed to provide insights into key accident metrics. The dashboard visualizes total casualties by severity (fatal, serious, and slight), vehicle type, road surface, and location (urban vs. rural). It also includes monthly trends of casualties, allowing for comparative analysis across different time periods. The interactive elements enable users to filter data based on accident dates and geographical locations, making it easier to identify patterns and factors contributing to accidents. This dashboard is a valuable tool for stakeholders focused on improving road safety and making data-driven decisions.
